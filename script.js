@@ -179,7 +179,7 @@ function gameStart(diff) {
     /**
      * Generates the player with a dog sprite in the upper left hand corner.
      */
-    player = new sprite("dog2", 15, 0, 6, 0, 0, 1000); 
+    player = new sprite("dogB", 15, 0, 6, 0, 0, 1000); 
     AIcats = [];                                      
     traps = [];
     /**
