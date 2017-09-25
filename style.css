@@ -1,0 +1,16 @@
+#container {
+	height : 620px;
+	width: 900px;
+	border: 5px dashed #2024FF;
+	padding: 5px;
+	position: relative;
+}
+
+#scorebox {
+	width: 100px;
+	float: right;
+	padding: 10px;
+	border: 2px solid #35104E;
+	background-color: #FD99DC;
+}
+
